@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using SuppliersToBiggBrands.AppModels;
 
-namespace SuppliersToBiggBrands.Services.ExternalServices
+namespace SuppliersToBiggBrands.Services.ExternalServices.PoloExchange
 {
     public class PoloExchangeService : IPoloExchangeService
     {

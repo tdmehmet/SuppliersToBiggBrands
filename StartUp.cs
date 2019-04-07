@@ -18,7 +18,7 @@ namespace SuppliersToBiggBrands
             {
                 WarehouseID = configuration.GetValue<int>("AppConfiguration:WarehouseID"),
             };
-            _commonService.TransferProductsFromPoloExchangeRepository(appConfiguration);
+            _commonService.TransferProductsFromSuppliers(appConfiguration);
         }
     }
 }

@@ -4,6 +4,6 @@ namespace SuppliersToBiggBrands.Services
 {
     public interface ICommonService
     {
-        void TransferProductsFromPoloExchangeRepository(AppConfiguration appConfiguration);
+        void TransferProductsFromSuppliers(AppConfiguration appConfiguration);
     }
 }

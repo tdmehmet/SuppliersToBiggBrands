@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Text;
 
-namespace SuppliersToBiggBrands.Services.ExternalServices
+namespace SuppliersToBiggBrands.Services.ExternalServices.PoloExchange
 {
     public interface IPoloExchangeService
     {
